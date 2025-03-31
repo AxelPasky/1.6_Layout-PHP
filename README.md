@@ -23,4 +23,4 @@ This repository contains exercises designed to test and reinforce knowledge of P
 - A local server like XAMPP, MAMP, or LAMP to run PHP scripts
 
 👤 **Author**  
-Developed by AxelPasky. 
+Developed by AxelPasky. Peer corrected by Ramon.
